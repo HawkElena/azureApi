@@ -13,7 +13,7 @@ public class endPoint {
 	
 	@GetMapping("/endpoint")
 	public String getEndPoint() {
-		return "The first api in azure...?";
+		return "The first api in azure...!!";
 	}
 
 }
