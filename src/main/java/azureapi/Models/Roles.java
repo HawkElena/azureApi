@@ -42,5 +42,5 @@ public class Roles {
 
 	@Transient
 	@Column(name = "_error_msg")
-	private String _error_msg			;
+	private String _message			;
 }
